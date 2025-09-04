@@ -9,3 +9,8 @@
 CNN결합모델:
 +전이학습
 +다차원, 이미지 특화 특성공학 필요
+
+Optuna 
+PROB_THRESHOLD': 0.4568, 'ATR_SL_MULTIPLIER': 2.0905, 'ATR_TP_MULTIPLIER': 4.9610,
+'IC_TENKAN': 6, 'IC_KIJUN': 27, 'IC_SENKOU': 56,
+'LSTM_UNITS': 32, 'DROPOUT_RATE': 0.1736, 'trial_id': 27
