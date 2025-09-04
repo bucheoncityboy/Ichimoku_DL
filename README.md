@@ -10,7 +10,19 @@ CNN결합모델:
 +전이학습
 +다차원, 이미지 특화 특성공학 필요
 
+
 Optuna 
 PROB_THRESHOLD': 0.4568, 'ATR_SL_MULTIPLIER': 2.0905, 'ATR_TP_MULTIPLIER': 4.9610,
 'IC_TENKAN': 6, 'IC_KIJUN': 27, 'IC_SENKOU': 56,
 'LSTM_UNITS': 64, 'DROPOUT_RATE': 0.1736, 'trial_id': 27
+
+BTC-ETH 교차검증
+Final Capital: $12,888.77
+Total Return: 28.89%
+-----------------------------------
+Total Trades: 193
+Win Rate: 31.09%
+Profit Factor: 1.11
+Max Drawdown (MDD): 28.54%
+
+-->lstm 레이어 수, dense 최적화 예정
